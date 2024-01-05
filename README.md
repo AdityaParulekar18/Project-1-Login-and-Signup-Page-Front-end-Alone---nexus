@@ -1,5 +1,7 @@
 # Project-1-Login-and-Signup-Page-Front-end-Alone---nexus
 The "Login and Signup Page" project is a simple web application that provides users with a clean and visually appealing interface for both login and signup actions. The project incorporates responsive design, form validation, and seamless navigation between the login and signup pages.
+
+
 -> Features:
 1. Responsive Design: The project ensures a responsive layout, adapting to various devices and screen sizes, offering a consistent user experience.
 2. Login Page: Allows users to enter their username and password for login. Includes basic form validation to handle invalid inputs.
